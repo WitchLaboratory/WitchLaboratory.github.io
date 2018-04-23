@@ -66,10 +66,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #eeee90;
+  color: #eee05e;
   text-decoration: none; }
   a:visited {
-    color: #e4e44e; }
+    color: #e7d319; }
   a:hover {
     color: #ececec;
     text-decoration: underline; }
@@ -142,7 +142,8 @@ pre {
  */
 .icon {
   display: inline-block;
-  vertical-align: middle; }
+  vertical-align: middle;
+  padding-right: 5px; }
   .icon path {
     fill: #c7c7c7; }
 
